@@ -31,8 +31,8 @@ iframe{border:0;}
 .list_02{left:187%}
 .list_03{left:278%}
 .list_04{left:369%}
-.list_05{padding:60px 47px;left:460%}
-.list_06{padding:60px 47px;left:551%}
+.list_05{padding:60px 47px 0;left:460%}
+.list_06{padding:60px 47px 0;left:551%}
 
 .list h2{color:#fff;font-size:72px;line-height:89px;font-weight:bold}
 .list h3{color:#0052F0;font-size:48px;line-height:59px;font-weight:bold}
